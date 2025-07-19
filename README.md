@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tanisha Chauhan(Tannzz)
 
-Welcome to my GitHub profile!I am an individual who is passionate about **Web Development**, **UI/UX Designing**, **Open Source**, and building impactful projects that make a difference.
+Welcome to my GitHub profile!! I am an individual who is passionate about **Web Development**, **UI/UX Designing**, **Open Source**, and building impactful projects that make a difference.
 
 ## 🚀 What Drives Me
 
