@@ -8,7 +8,7 @@ Welcome to my GitHub profile!! I am an individual who is passionate about **Web 
 - Designing seamless user experiences with a focus on creativity and usability.
 - Collaborating with the open source community to learn, share, and grow.
 - Building projects that solve real-world problems and create positive impact.
-> To see my UI/UX design work, visit my [Behance profile](https://www.behance.net/tanishachauhan11).
+
 
 
 ## 🌐 Connect with Me
